@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: Default-config
+
 eureka:
   instance:
     ip-address: true
